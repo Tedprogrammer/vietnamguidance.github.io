@@ -1,0 +1,100 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+body h1{
+    font-family: "Papyrus", 'fantasy';
+    font-size:1.5cm;
+}
+.menu-bar{
+    background-color:#b5a65c;
+    text-align:center;
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    color:antiquewhite;
+}
+.menu-bar ul li{
+    width: 200px;
+    margin: 15px;
+    padding: 10px;
+    border-style:inset;
+}
+.menu-bar ul li a{
+    text-decoration: none;
+    color:antiquewhite;
+}
+.active, .menu-bar ul li:hover{
+    background-color:#cfbe88;
+    border-radius: 2px;
+}
+#para1{
+    background-color:cornsilk;
+    height: 2pc;
+    width: 8pc;
+    display: inline-flex;
+    position: static;
+    color: black;
+    padding: 1px;
+}
+#para1-5{
+    background-color:cornsilk;
+    height: 7pc;
+    width: 53pc;
+    display: inline-flex;
+    position: static;
+    color: black;
+    padding: 1px;
+}
+#para2{
+    background-color:cornsilk;
+    height: 2pc;
+    width: 13pc;
+    display: inline-flex;
+    position: static;
+    color: black;
+    padding: 1px;
+}
+#para2-5{
+    background-color:cornsilk;
+    height: 8pc;
+    width: 52pc;
+    display: inline-flex;
+    position: static;
+    color: black;
+    padding: 1px;
+}
+#para3{
+    background-color:cornsilk;
+    height: 2pc;
+    width: 12pc;
+    display: inline-flex;
+    position: static;
+    color: black;
+    padding: 1px;
+}
+#para3-5{
+    background-color:cornsilk;
+    height: 8pc;
+    width: 52pc;
+    display: inline-flex;
+    position: static;
+    color: black;
+    padding: 1px;
+}
+#para4{
+    background-color:cornsilk;
+    height: 9pc;
+    width: 45pc;
+    display: inline-flex;
+    position: static;
+    color: black;
+    padding: 1px;
+}
+
